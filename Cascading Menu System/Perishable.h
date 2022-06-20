@@ -5,8 +5,11 @@
 #include "Item.h"
 #include "Date.h"
 #include "Utils.h"
-namespace sdds {
-   class Perishable : public Item {
+
+namespace sdds 
+{
+   class Perishable : public Item 
+   {
       Date m_expiryDate{};
       char* m_instruction{};
       void dealloc();

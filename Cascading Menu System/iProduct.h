@@ -2,8 +2,11 @@
 #define SDDS_IPRODUCT_H
 #include <iostream>
 #include "Utils.h"
-namespace sdds {
-   class iProduct {
+
+namespace sdds 
+{
+   class iProduct 
+   {
       // to read the Stock-Keeping Unit from console before
    public:
       // main data entry

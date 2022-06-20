@@ -6,8 +6,11 @@
 #include "iProduct.h"
 #include "Status.h"
 #include "Utils.h"
-namespace sdds {
-   class Item : public iProduct {
+
+namespace sdds 
+{
+   class Item : public iProduct 
+   {
       double m_price = 0;
       int m_qty = 0;
       int m_qtyNeeded = 0;

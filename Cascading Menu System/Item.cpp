@@ -1,7 +1,9 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include "Item.h"
+
 using namespace std;
-namespace sdds {
+namespace sdds 
+{
    void Item::dealloc()
    {
       delete[] m_description;
@@ -140,7 +142,6 @@ namespace sdds {
       }
       return ifstr;
    }
-
    std::ostream& Item::display(std::ostream& ostr) const
    {
       string str = m_description;
@@ -192,7 +193,6 @@ namespace sdds {
       }
       return ostr;
    }
-
    std::istream& Item::read(std::istream& istr)
    {
       cout.setf(ios::fixed);

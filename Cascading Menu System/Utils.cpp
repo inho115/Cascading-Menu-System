@@ -1,12 +1,12 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include "Utils.h"
-using namespace std;
-namespace sdds {
-   // The ut object of type Utils that is accessible to any file including "Utils.h" to call the Utils
-   // methods
-   Utils ut;
 
-   void Utils::testMode(bool testmode) {
+using namespace std;
+namespace sdds 
+{
+   Utils ut;
+   void Utils::testMode(bool testmode) 
+   {
       m_testMode = testmode;
    }
    void Utils::alocpy(char*& destination, const char* source)
@@ -19,7 +19,7 @@ namespace sdds {
          strcpy(destination, source);
       }
    }
-   int Utils::getint(const char* prompt) /////////////////
+   int Utils::getint(const char* prompt)
    {
       int integer = 0;
       int flag = 0;

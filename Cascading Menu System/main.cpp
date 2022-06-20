@@ -8,7 +8,8 @@ using namespace std;
 void copyfile(const char* to, const char* from);
 void displayFile(const char* file);
 
-int main() {
+int main() 
+{
    copyfile("data.txt", "data.dat");
    ut.testMode();
    AidMan().run();
@@ -17,15 +18,15 @@ int main() {
    displayFile("shippingOrder.txt");
    return 0;
 }
-
-void displayFile(const char* file) {
+void displayFile(const char* file) 
+{
    ifstream in(file);
    char ch;
    cout << "File: " << file << endl;
    while (in.get(ch)) cout << ch;
 }
-
-void copyfile(const char* to, const char* from) {
+void copyfile(const char* to, const char* from) 
+{
    std::ifstream in(from);
    std::ofstream out(to);
    char ch;

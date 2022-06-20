@@ -1,6 +1,8 @@
 #include "Date.h"
+
 using namespace std;
-namespace sdds {
+namespace sdds 
+{
    bool Date::validate()
    {
       bool result = true;

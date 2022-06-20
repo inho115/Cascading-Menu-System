@@ -2,8 +2,11 @@
 #define SDDS_STATUS_H
 #include <iostream>
 #include "Utils.h"
-namespace sdds {
-   class Status {
+
+namespace sdds 
+{
+   class Status 
+   {
       char* m_description{};
       int m_statusCode = 0;
    public:

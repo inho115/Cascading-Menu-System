@@ -1,6 +1,8 @@
 #include "Status.h"
+
 using namespace std;
-namespace sdds {
+namespace sdds 
+{
    Status::Status(const char* description)
    {
       ut.alocpy(m_description, description);
@@ -17,19 +19,16 @@ namespace sdds {
    {
       clear();
    }
-
    Status& Status::operator=(const char* description)
    {
       ut.alocpy(m_description, description);
       return *this;
    }
-
    Status& Status::operator=(int code)
    {
       m_statusCode = code;
       return *this;
    }
-
    Status::operator int() const
    {
       return m_statusCode;

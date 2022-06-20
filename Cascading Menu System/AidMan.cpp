@@ -1,4 +1,5 @@
 #include "AidMan.h"
+
 using namespace std;
 namespace sdds 
 {
@@ -30,7 +31,6 @@ namespace sdds
       m_fileName = nullptr;
       m_numItem = 0;
    }
-
    std::ofstream& AidMan::write(std::ofstream& ofstr) const
    {
       int counter = 0;
@@ -53,7 +53,6 @@ namespace sdds
       fout << "-----+-------+-------------------------------------+------+------+---------+-----------\n";
       return ofstr;
    }
-
    AidMan::AidMan()
    {
       m_fileName = nullptr;
@@ -205,9 +204,9 @@ namespace sdds
       cout << "Enter file name: ";
       cin.get(name, 50, '\n');
       ut.alocpy(m_fileName, name);
-      ifstream fin(m_fileName); // reading
+      ifstream fin(m_fileName); 
       fin.seekg(0);
-      if (fin.fail())           // if reading fails
+      if (fin.fail())          
       {
          cout << "Failed to open " << m_fileName << " for reading!\n";
          cout << "Would you like to create a new data file?\n";

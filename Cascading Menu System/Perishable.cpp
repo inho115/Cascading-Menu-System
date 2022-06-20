@@ -1,7 +1,9 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include "Perishable.h"
+
 using namespace std;
-namespace sdds {
+namespace sdds 
+{
    void Perishable::dealloc()
    {
       delete[] m_instruction;

@@ -2,9 +2,12 @@
 #define SDDS_MENU_H
 #include <iostream>
 #include "Utils.h"
-namespace sdds {
+
+namespace sdds 
+{
    const int maxOption = 15;
-   class Menu {
+   class Menu 
+   {
       char* m_option{};
       unsigned int m_numOption = 0;
       void dealloc();

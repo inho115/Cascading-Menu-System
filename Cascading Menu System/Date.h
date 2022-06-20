@@ -4,9 +4,12 @@
 #include "Utils.h"
 #include <ctime>
 #include <iostream>
-namespace sdds {
+
+namespace sdds 
+{
    const int maxYearValue = 2030;
-   class Date {
+   class Date 
+   {
       int m_year = 0;
       int m_month = 0;
       int m_day = 0;
@@ -15,7 +18,6 @@ namespace sdds {
       bool validate();
       int uniqueDateValue();
    public:
-      // Rule of three
       Date();
       Date(const Date& copy);
       Date& operator=(const Date& copy);
