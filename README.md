@@ -18,6 +18,6 @@ This project demonstrates the basic concepts that are covered in object oriented
 - I/O Objects (ostream, istream, filestream)
 - Arrays
 # Program Operation
-This system displays number of options for a user to select at start screen.<br />To access these options, the user must enter a desired file name as an input.<br />
-![loading](https://user-images.githubusercontent.com/97544886/176253815-b6ddbf95-96d0-4851-918b-202c010000a0.JPG)<br />
+This system displays number of options for a user to select at start screen.<br />To access these options, the user must enter a desired file name as an input.<br /><br />
+![loading](https://user-images.githubusercontent.com/97544886/176253815-b6ddbf95-96d0-4851-918b-202c010000a0.JPG)<br /><br />
 The system loads a file inforamtion based on a preset rule created by using delimiters.
