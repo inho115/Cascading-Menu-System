@@ -30,13 +30,13 @@ Once loading is succesfully completed, the system displays how many items were l
 First Option display seven columns including Row number, SKU number, Description of an item, Quantity on Hand (Have), Quantity Needed (Need), Price of an item, and an Expiry Date.<br />
 If the user wants to view details from one of the listed items, the user can type a row number.
 ## Option Two
-![option2](https://user-images.githubusercontent.com/97544886/176355507-bae6a190-d63b-4193-aea1-25b4b6d2887c.JPG)
+![option2](https://user-images.githubusercontent.com/97544886/176355507-bae6a190-d63b-4193-aea1-25b4b6d2887c.JPG)<br /><br />
 In this option, the user can add either a perishable or non-perishable product to a list.<br />
 
 ## Option Three
-![option3](https://user-images.githubusercontent.com/97544886/176354618-724bdcb7-837c-4013-8cf2-163f2d8a1e3a.JPG)
+![option3](https://user-images.githubusercontent.com/97544886/176354618-724bdcb7-837c-4013-8cf2-163f2d8a1e3a.JPG)<br /><br />
 ## Option Four
-![option4](https://user-images.githubusercontent.com/97544886/176354654-dabf1ee2-6097-411e-bfb4-3106f685fc7b.JPG)
+![option4](https://user-images.githubusercontent.com/97544886/176354654-dabf1ee2-6097-411e-bfb4-3106f685fc7b.JPG)<br /><br />
 ## Option Five
-![option5](https://user-images.githubusercontent.com/97544886/176354670-60c0e6b6-f288-46a9-ada6-2db221ffd72c.JPG)
+![option5](https://user-images.githubusercontent.com/97544886/176354670-60c0e6b6-f288-46a9-ada6-2db221ffd72c.JPG)<br /><br />
 
