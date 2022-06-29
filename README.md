@@ -57,6 +57,10 @@ Finally, the system will confirm the action.<br />
 If selected 'Yes', the selected item will deleted, and if 'Exit' was selected, removing will be cancelled.<br />
 ## Option Four
 ![option4](https://user-images.githubusercontent.com/97544886/176354654-dabf1ee2-6097-411e-bfb4-3106f685fc7b.JPG)<br /><br />
+To search an item, the user can enter a case-sensitive description of an item.<br />
+If there were any matching items, the system will prompt the user to enter a SKU number of a desired item.<br />
+Once the item is selected, the user can either update or reduce a quantity of a selected item.<br />
 ## Option Five
 ![option5](https://user-images.githubusercontent.com/97544886/176354670-60c0e6b6-f288-46a9-ada6-2db221ffd72c.JPG)<br /><br />
-
+Option five allows the user to sort items based on difference between Have and Need Column.<br />
+A result of an option one is different compare to a first demonstration of the option one.<br />
