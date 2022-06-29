@@ -39,6 +39,7 @@ In this option, the user can add either a perishable or non-perishable product t
 - Quantity Needed
 - Price
 - Expiry Date<br /><br />
+
 <strong>Non-Perishable</strong><br />
 - SKU
 - Description
