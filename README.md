@@ -38,8 +38,8 @@ In this option, the user can add either a perishable or non-perishable product t
 - Quantity on Hand
 - Quantity Needed
 - Price
-- Expiry Date<br/>
-<strong>Non-Perishable</strong><br/>
+- Expiry Date<br /><br />
+<strong>Non-Perishable</strong><br />
 - SKU
 - Description
 - Quantity on Hand
