@@ -32,7 +32,20 @@ If the user wants to view details from one of the listed items, the user can typ
 ## Option Two
 ![option2](https://user-images.githubusercontent.com/97544886/176355507-bae6a190-d63b-4193-aea1-25b4b6d2887c.JPG)<br /><br />
 In this option, the user can add either a perishable or non-perishable product to a list.<br />
-
+<strong>Perishable</strong><br/>
+- SKU
+- Description
+- Quantity on Hand
+- Quantity Needed
+- Price
+- Expiry Date<br/>
+<strong>Non-Perishable</strong><br/>
+- SKU
+- Description
+- Quantity on Hand
+- Quantity Needed
+- Price
+- Expiry Date
 ## Option Three
 ![option3](https://user-images.githubusercontent.com/97544886/176354618-724bdcb7-837c-4013-8cf2-163f2d8a1e3a.JPG)<br /><br />
 ## Option Four
