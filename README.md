@@ -47,7 +47,7 @@ The system will prompt user to enter information based on a selected type.<br />
 - Quantity on Hand
 - Quantity Needed
 - Price
-- Expiry Date
+
 ## Option Three
 ![option3](https://user-images.githubusercontent.com/97544886/176354618-724bdcb7-837c-4013-8cf2-163f2d8a1e3a.JPG)<br /><br />
 Third option allows the user to remove an item from the list.<br />
