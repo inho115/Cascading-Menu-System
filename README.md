@@ -31,14 +31,14 @@ First Option display seven columns including Row number, SKU number, Description
 If the user wants to view details from one of the listed items, the user can type a row number.
 ## Option Two
 ![option2](https://user-images.githubusercontent.com/97544886/176355507-bae6a190-d63b-4193-aea1-25b4b6d2887c.JPG)<br /><br />
-In this option, the user can add either a perishable or non-perishable product to a list.<br />
+In this option, the user can add either a perishable or non-perishable product to a list.<br /><br />
 <strong>Perishable</strong><br/>
 - SKU
 - Description
 - Quantity on Hand
 - Quantity Needed
 - Price
-- Expiry Date<br /><br />
+- Expiry Date<br />
 
 <strong>Non-Perishable</strong><br />
 - SKU
