@@ -22,7 +22,8 @@ To reduce a repetitiveness, this demonstration will be displaying only option on
 This system displays number of options for a user to select at start screen.<br />To access these options, the user must enter a desired file name as an input.<br /><br />
 ## Loading Screen
 ![loading](https://user-images.githubusercontent.com/97544886/176253815-b6ddbf95-96d0-4851-918b-202c010000a0.JPG)<br /><br />
-The system loads a file inforamtion based on a preset rule created by using delimiters.<br /><br />
+The system loads a file inforamtion based on a preset rule created by using delimiters.<br />
+Once loading is succesfully completed, the system displays how many items were loaded into the system.
 ## Option One
 ![Capture1](https://user-images.githubusercontent.com/97544886/176254756-2b733c5f-0b6d-48f2-9e0d-af6bc6f21f85.JPG)<br /><br />
 First Option display seven columns including Row number, SKU number, Description of an item, Quantity on Hand (Have), Quantity Needed (Need), Price of an item, and an Expiry Date.
