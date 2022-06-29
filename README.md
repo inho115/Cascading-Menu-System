@@ -1,5 +1,5 @@
 # Cascading-Menu-System
-Object Oriented Project from Seneca College<br />Language: C++.<br />IDE: <a href="https://visualstudio.microsoft.com/free-developer-offers/">Visual Studio 2022</a><br /><br />
+Object Oriented Project from Seneca College<br />Language: C++.<br />IDE: <a href="https://visualstudio.microsoft.com/free-developer-offers/">Visual Studio 2022</a><br />
 # Academic Integrity
 This project was milestone project for Introduction to Object Oriented Programming (OOP244) in Seneca College.<br />Do not use materials for your assignments.<br />Materials and instruction were given by instructor at Seenca College.
 # Introduction
