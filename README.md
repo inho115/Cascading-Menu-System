@@ -25,4 +25,10 @@ This system displays number of options for a user to select at start screen.<br 
 The system loads a file inforamtion based on a preset rule created by using delimiters.<br /><br />
 ## Option One
 ![Capture1](https://user-images.githubusercontent.com/97544886/176254756-2b733c5f-0b6d-48f2-9e0d-af6bc6f21f85.JPG)<br /><br />
+## Option Three
+![option3](https://user-images.githubusercontent.com/97544886/176354618-724bdcb7-837c-4013-8cf2-163f2d8a1e3a.JPG)
+## Option Four
+![option4](https://user-images.githubusercontent.com/97544886/176354654-dabf1ee2-6097-411e-bfb4-3106f685fc7b.JPG)
+## Option Five
+![option5](https://user-images.githubusercontent.com/97544886/176354670-60c0e6b6-f288-46a9-ada6-2db221ffd72c.JPG)
 
