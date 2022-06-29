@@ -50,6 +50,11 @@ The system will prompt user to enter information based on a selected type.<br />
 - Expiry Date
 ## Option Three
 ![option3](https://user-images.githubusercontent.com/97544886/176354618-724bdcb7-837c-4013-8cf2-163f2d8a1e3a.JPG)<br /><br />
+Third option allows the user to remove an item from the list.<br />
+Once the user enter a case-sensitive description of an item, the system will automatically find a matching item.<br />
+If there were any matching items, the system will prompt the user to enter a SKU number of a desired item.<br />
+Finally, the system will confirm the action.<br />
+If selected 'Yes', the selected item will deleted, and if 'Exit' was selected, removing will be cancelled.<br />
 ## Option Four
 ![option4](https://user-images.githubusercontent.com/97544886/176354654-dabf1ee2-6097-411e-bfb4-3106f685fc7b.JPG)<br /><br />
 ## Option Five
